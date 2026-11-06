@@ -60,7 +60,7 @@ Displays geographical sales distribution across different regions.
 
 ### 3. Product Details
 
-![Product Details](./Screenshots/03_Product_Details.png)
+![Product Details](./Screenshots/03_Product_Detail.png)
 
 Provides detailed insights into individual product performance.
 
@@ -144,12 +144,6 @@ Focuses on customer-level analysis and purchasing behavior.
 - `AdventureWorks_Dashboard.pbix` – Power BI project file.
 - `Screenshots/` – Dashboard screenshots.
 - `README.md` – Project documentation.
-
-## 🎓 Learning Reference
-
-Developed as a hands-on learning project based on the Power BI Business Intelligence course by Maven Analytics.
-
-The project demonstrates the practical application of Power BI concepts through a business intelligence case study.
 
 ## 👩‍💻 Author
 
