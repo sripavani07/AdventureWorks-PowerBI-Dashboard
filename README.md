@@ -29,6 +29,8 @@ The main objective is to analyze business performance across sales, revenue, pro
 
 ### 1. Executive Dashboard
 
+![Executive Dashboard](./Screenshots/01_Executive_Dashboard.png)
+
 Provides an overview of overall business performance through key KPIs and interactive visualizations.
 
 **Key Metrics:**
@@ -46,6 +48,8 @@ Provides an overview of overall business performance through key KPIs and intera
 
 ### 2. Regional Map
 
+![Regional Map](./Screenshots/02_Regional_Map.png)
+
 Displays geographical sales distribution across different regions.
 
 **Features:**
@@ -55,6 +59,8 @@ Displays geographical sales distribution across different regions.
 - Interactive region selection.
 
 ### 3. Product Details
+
+![Product Details](./Screenshots/03_Product_Details.png)
 
 Provides detailed insights into individual product performance.
 
@@ -69,6 +75,8 @@ Provides detailed insights into individual product performance.
 - Product metric selection using interactive controls.
 
 ### 4. Customer Details
+
+![Customer Details](./Screenshots/04_Customer_Details.png)
 
 Focuses on customer-level analysis and purchasing behavior.
 
